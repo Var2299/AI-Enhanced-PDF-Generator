@@ -37,6 +37,27 @@ A sleek **Next.js** + **React** application that lets you build, preview, and do
 
 ---
 
+<img width="868" height="932" alt="image" src="https://github.com/user-attachments/assets/d5b5f6da-d322-4f86-9621-a00e13b1af7a" />
+
+---
+
+<img width="882" height="913" alt="image" src="https://github.com/user-attachments/assets/0288382d-9c1b-4cf6-9e26-2977779aff75" />
+
+---
+
+<img width="1516" height="967" alt="image" src="https://github.com/user-attachments/assets/1ceb8891-0cea-41ba-876f-e864f97e0cc7" />
+
+---
+
+<img width="1435" height="667" alt="image" src="https://github.com/user-attachments/assets/e4ba3f0f-f726-4f36-96df-ab951405160d" />
+
+---
+
+### PDF 
+<img width="707" height="977" alt="image" src="https://github.com/user-attachments/assets/199a112e-99a9-4f1a-90e7-2d9dbeed3681" />
+
+---
+
 ## 🛠️ Tech Stack
 
 | Feature                  | Technology                              |
