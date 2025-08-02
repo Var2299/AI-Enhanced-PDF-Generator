@@ -53,7 +53,7 @@ A sleek **Next.js** + **React** application that lets you build, preview, and do
 
 ---
 
-## *PDF*
+## **PDF**
 <img width="707" height="977" alt="image" src="https://github.com/user-attachments/assets/199a112e-99a9-4f1a-90e7-2d9dbeed3681" />
 
 ---
