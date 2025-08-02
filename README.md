@@ -54,21 +54,21 @@ A sleek **Next.js** + **React** application that lets you build, preview, and do
 
 ## 📦 Installation
 
-# Clone repo
+### Clone repo
 ```bash
 git clone https://github.com/your-username/ai-pdf-generator.git
 cd ai-pdf-generator
 ```
 
-# Install dependencies
+### Install dependencies
 ```bash
 npm install
 ```
-# or
+### or
 ```bash
-yarn install 💡
+yarn install 
 ```
-## 🔧 Configuration
+### 🔧 Configuration
 
 Create a `.env.local` file in the project root with your Groq API key:
 
