@@ -1,4 +1,4 @@
-# 🚀 AI-Enhanced PDF Generator [(Live link)](https://doc-sync-red.vercel.app/).
+# 🚀 AI-Enhanced PDF Generator [(Live)](https://ai-enhanced-pdf-generator.vercel.app/).
 
 A sleek **Next.js** + **React** application that lets you build, preview, and download professional PDF profiles—powered by AI enhancements! Perfect for resumes, CVs, portfolios, or any profile doc.  
 
